@@ -3,6 +3,10 @@ This project was generated with Angular CLI version 11.1.2.
 
 I have always found it difficult to have a clean template for me to start working on Angular projects. This is my attempt at creating a template that I can clone in the future for Angular Projects.
 
+<h2 id="quick-start">Quick Start</h2>
+To run the template, clone the repo, navigate into the angular project. Run `npm i` to install all the dependencies. Running `ng s` runs the project and launches a browser on localhost on port 4200.
+If you would like to recrate the template on your own, follow the directions below.
+
 ## Requirements
 Before we can begin creating an Angular Project and developing our template, we need to meet the pre-requisites. If all the requirements are met, we can skip down to the [steps to recreate the template](#steps-to-recreate-the-template).
 ### Node.js
