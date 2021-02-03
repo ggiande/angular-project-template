@@ -4,7 +4,7 @@ This project was generated with Angular CLI version 11.1.2.
 I have always found it difficult to have a clean template for me to start working on Angular projects. This is my attempt at creating a template that I can clone in the future for Angular Projects.
 
 <h2 id="quick-start">Quick Start</h2>
-To run the template, clone the repo, navigate into the angular project. Run `npm i` to install all the dependencies. Running `ng s` runs the project and launches a browser on localhost on port 4200.
+To run the template, clone the repo, navigate into the angular project. Run ```npm i``` to install all the dependencies. Running ```ng s``` runs the project and launches a browser on localhost on port 4200.
 If you would like to recrate the template on your own, follow the directions below.
 
 ## Requirements
@@ -14,7 +14,7 @@ To install the newest version of Node.js, go to [node.js.org](https://nodejs.org
 
 npm is distributed with Node.js- which means that when you download Node.js, you automatically get npm installed on your computer. To check your version of node, run ```node --v```
 ### git
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is required to install and develop Angular projects. Go to the [git scm site](https://git-scm.com/downloads) to donwload the latest version of git for your machine.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is required to install and develop Angular projects. Go to the [git scm site](https://git-scm.com/downloads) to download the latest version of git for your machine.
 <h3 id="angular-header">Angular</h3>
 
 The Angular CLI makes it easy to create an application that already works, right out of the box. Run this comamnd in a terminal window to install Angular globally ```npm install -g @angular/cli```
